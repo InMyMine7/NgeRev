@@ -13,3 +13,4 @@ How To Usage :
 python3 ngerev.py
 ```
 
+special thanks to <a href="https://github.com/elliottophellia">elliottophellia<a>
